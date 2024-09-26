@@ -1,0 +1,1 @@
+# JAX Token contract
